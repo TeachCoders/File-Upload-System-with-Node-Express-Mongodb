@@ -1,0 +1,23 @@
+{
+  "name": "2-createserver_and_route",
+  "version": "1.0.0",
+  "description": "Teac Coders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Teac",
+    "Coders"
+  ],
+  "author": "Teac Coders",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
